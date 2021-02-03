@@ -5,7 +5,7 @@
 <img src="https://github.com/ppc-ntu-khpi/34-inheritance-NastyaBrilova/blob/master/images/665171-741x486.jpg"/>
 
 ## UML діаграма
-<img src="https://github.com/ppc-ntu-khpi/34-inheritance-NastyaBrilova/blob/master/images/Bird-Diagram.PNG"/>
+<img src="https://github.com/ppc-ntu-khpi/34-inheritance-NastyaBrilova/blob/master/images/UML%20Diagram.PNG"/>
 
 ## Результат
 <img src="https://github.com/ppc-ntu-khpi/34-inheritance-NastyaBrilova/blob/master/images/Results.PNG"/>
