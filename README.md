@@ -8,5 +8,5 @@
 <img src="https://github.com/ppc-ntu-khpi/34-inheritance-NastyaBrilova/blob/master/images/Bird-Diagram.PNG"/>
 
 ## Результат
-<img src=""/>
+<img src="https://github.com/ppc-ntu-khpi/34-inheritance-NastyaBrilova/blob/master/images/Results.PNG"/>
 
